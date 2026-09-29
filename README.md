@@ -26,6 +26,7 @@ The project automatically creates student_results.xlsx to store student records.
 🎥 In This Video:
 
 I explain the project objective, technologies, features and demonstrate the complete working flow of the application.
+👉 ▶️https://youtu.be/dX-j6RkJ1_s
 
 👩‍💻 Developed By:
 
